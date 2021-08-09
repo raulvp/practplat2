@@ -37,7 +37,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: 1px solid #DDD;
+    border: 1px solid rgb(37, 149, 184);
     margin: 0 auto;
 }
 
@@ -49,4 +49,10 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+#footer{
+	
+	background-color: yellow;
+	text-align:center;
 }
